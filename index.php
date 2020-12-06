@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,7 +14,7 @@
 
   ?php
 
-          echo "<h6><font color=black text-align=center size='8pt'>        Welcome " . $_GET["name"] . "</h6>";
+          echo  " Welcome " . $_GET["name"] . ;
 
           ?>
 </body>
